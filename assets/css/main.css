@@ -2269,7 +2269,7 @@
 		}
 
 	.select-wrapper {
-		text-decoration: none;
+		color: rgb(82, 82, 82);
 		display: block;
 		position: relative;
 	}
